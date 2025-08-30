@@ -31,6 +31,10 @@
 1. Включить и настроить NFS-сервер на MicroK8S.
 2. Создать Deployment приложения состоящего из multitool, и подключить к нему PV, созданный автоматически на сервере NFS.
 3. Продемонстрировать возможность чтения и записи файла изнутри пода. 
+<img width="1312" height="92" alt="image" src="https://github.com/user-attachments/assets/d3991703-b3da-490f-820e-30a11791dce8" />
+<img width="1065" height="132" alt="image" src="https://github.com/user-attachments/assets/5a2b333d-0eed-4402-aa83-855f7fca1411" />
+<img width="1341" height="418" alt="image" src="https://github.com/user-attachments/assets/83b7edeb-88f3-4827-bb39-39c1e3141c86" />
+<img width="1371" height="634" alt="image" src="https://github.com/user-attachments/assets/d6e794ad-4237-4d6c-a8a2-40a7add00930" />
 4. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
 
